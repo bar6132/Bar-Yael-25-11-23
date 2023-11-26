@@ -1,0 +1,11 @@
+.suggested-city-item {
+    list-style: none;
+    padding: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .suggested-city-item:hover {
+    background-color: #f2f2f2; 
+  }
+  
